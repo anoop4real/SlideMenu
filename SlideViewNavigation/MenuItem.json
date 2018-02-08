@@ -1,0 +1,39 @@
+{
+    "MenuItems": [
+                  {
+                  "title": "Home",
+                  "menuId": "d",
+                  "resourceId": "Home",
+                  "imageName": "menuItemIcon",
+                  "url":""
+                  },
+                  {
+                  "title": "Products",
+                  "menuId": "d",
+                  "resourceId": "Products",
+                  "imageName": "menuItemIcon",
+                  "url":""
+                  },
+                  {
+                  "title": "Google",
+                  "menuId": "d",
+                  "resourceId": "Web",
+                  "imageName": "web",
+                  "url":"https://www.google.co.in"
+                  },
+                  {
+                  "title": "Yahoo",
+                  "menuId": "d",
+                  "resourceId": "Web",
+                  "imageName": "web",
+                  "url":"https://www.yahoo.com"
+                  },
+                  {
+                  "title": "WWE",
+                  "menuId": "d",
+                  "resourceId": "Web",
+                  "imageName": "web",
+                  "url":"https://www.wwe.com"
+                  },
+                  ]
+}
